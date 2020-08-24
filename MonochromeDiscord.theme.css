@@ -20,9 +20,9 @@
    --background-tertiary: black !important;
    --background-accent: black !important;
    --background-floating: black !important;
-   --background-modifier-hover: rgba(255, 255, 255, 0.01) !important;
-   --background-modifier-active: rgba(255, 255, 255, 0.03) !important;
-   --background-modifier-selected: rgba(255, 255, 255, 0.04) !important;
+   --background-modifier-hover: rgba(255, 255, 255, 0.25) !important;
+   --background-modifier-active: rgba(255, 255, 255, 0.25) !important;
+   --background-modifier-selected: rgba(255, 255, 255, 0.25) !important;
    --background-modifier-accent: hsla(0, 0%, 100%, 0.06) !important;
    --channeltextarea-background: var(--background-accent) !important;
    --deprecated-card-bg: rgba(0, 0, 0, 0.2) !important;
