@@ -1,0 +1,9 @@
+{
+   "name": "[High Contrast] Monochrome Discord",
+   "description": "An actual high-contrast mode for Discord. Credits to hellbound#9999 for the base theme, DarkDiscord.",
+   "version": "1.0.0",
+   "author": "✨Meme Magician✨#4447",
+   "theme": "MonochromeDiscord.theme.css",
+   "splashTheme": "splash.css",
+   "license": "Unlicensed"
+}

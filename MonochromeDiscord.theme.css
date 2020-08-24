@@ -1,22 +1,24 @@
 /**
 
- * @name Black 'n' White Discord
+ * @name [High Contrast] Monochrome Discord
  * @version 1.0
- * @description A high-contrast fork of DarkDiscord (credits to Hellbound for the base code)
- * @author theSignSaysDie
+ * @description An actual high-contrast mode for Discord. Credits to hellbound#9999 for the base theme, DarkDiscord.
+ * @source https://github.com/theSignSaysDie/MonochromeDiscord
+ * @authorId 315220045141770241
+ * @author ✨Meme Magician✨
 
 **/
 
-@import url(https://raw.githack.com/hellbound1337/dark-discord/master/src/source.css);
+@import url(https://raw.githack.com/theSignSaysDie/MonochromeDiscord/master/src/source.css);
 
 .theme-dark,
 .theme-light,
 :root {
-   --background-primary: #141414 !important;
-   --background-secondary: #111111 !important;
-   --background-secondary-alt: #292929 !important;
-   --background-tertiary: #0c0c0c !important;
-   --background-accent: #242424 !important;
+   --background-primary: black !important;
+   --background-secondary: black !important;
+   --background-secondary-alt: black !important;
+   --background-tertiary: black !important;
+   --background-accent: black !important;
    --background-floating: black !important;
    --background-modifier-hover: rgba(255, 255, 255, 0.01) !important;
    --background-modifier-active: rgba(255, 255, 255, 0.03) !important;
