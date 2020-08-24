@@ -37,7 +37,7 @@
    --interactive-normal: white !important;
    --interactive-hover: white !important;
    --interactive-active: white !important;
-   --interactive-muted: white !important;
+   --interactive-muted: #dddddd !important;
    --header-primary: white !important;
    --header-secondary: white !important;
    --toast-background: var(--background-primary) !important;
