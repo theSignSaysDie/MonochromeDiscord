@@ -32,12 +32,12 @@
    --deprecated-text-input-border-disabled: var(--background-tertiary) !important;
    --activity-card-background: var(--background-primary) !important;
    --channels-default: #cccccc !important;
-   --text-muted: #dddddd !important;
+   --text-muted: #cccccc !important;
    --text-normal: white !important;
    --interactive-normal: white !important;
    --interactive-hover: white !important;
    --interactive-active: white !important;
-   --interactive-muted: #dddddd !important;
+   --interactive-muted: #cccccc !important;
    --header-primary: white !important;
    --header-secondary: white !important;
    --toast-background: var(--background-primary) !important;
