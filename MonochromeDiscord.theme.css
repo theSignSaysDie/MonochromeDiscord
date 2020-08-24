@@ -31,7 +31,7 @@
    --deprecated-text-input-border: var(--background-floating) !important;
    --deprecated-text-input-border-disabled: var(--background-tertiary) !important;
    --activity-card-background: var(--background-primary) !important;
-   --channels-default: white !important;
+   --channels-default: #cccccc !important;
    --text-muted: #dddddd !important;
    --text-normal: white !important;
    --interactive-normal: white !important;
