@@ -23,7 +23,7 @@
    --background-modifier-hover: rgba(255, 255, 255, 0.25) !important;
    --background-modifier-active: rgba(255, 255, 255, 0.25) !important;
    --background-modifier-selected: rgba(255, 255, 255, 0.25) !important;
-   --background-modifier-accent: hsla(0, 0%, 100%, 0.06) !important;
+   --background-modifier-accent: hsla(0, 0%, 100%, 0.25) !important;
    --channeltextarea-background: var(--background-accent) !important;
    --deprecated-card-bg: rgba(0, 0, 0, 0.2) !important;
    --deprecated-card-editable-bg: rgba(0, 0, 0, 0.1) !important;
