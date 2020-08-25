@@ -35,8 +35,8 @@
    --text-muted: #cccccc !important;
    --text-normal: white !important;
    --interactive-normal: white !important;
-   --interactive-hover: white !important;
-   --interactive-active: white !important;
+   --interactive-hover: #1167b1 !important;
+   --interactive-active: #2a9df4 !important;
    --interactive-muted: #cccccc !important;
    --header-primary: white !important;
    --header-secondary: white !important;
@@ -45,4 +45,7 @@
    --toast-contents: var(--background-secondary) !important;
    --toast-box-shadow: rgba(0, 0, 0, 0.2) !important;
    --toast-border: var(--background-tertiary) !important;
+   
+   --high-contrast-light-blue: #2a9df4 !important;
+   --high-contrast-blue: #1167b1 !important;
 }
