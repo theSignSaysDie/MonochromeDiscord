@@ -1,4 +1,4 @@
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/res/BetterDocsBlock.css);
+1@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/res/BetterDocsBlock.css);
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/res/ThemeDevBadge.css);
 
 :root {
@@ -1492,7 +1492,7 @@
 /* ----		11.4.	PINS/MENTIONS					---- */
 
 .hasMoreButton-1MELpI {										/* popout				hasmore button						*/
-	color: rgb(var(--vaccentcolor));
+	color: rgb(var(--mention-color));
 }
 
 /* ----		11.5.	SEARCHPOPOUT					---- */
