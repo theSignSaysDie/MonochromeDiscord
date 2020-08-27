@@ -1492,7 +1492,7 @@
 /* ----		11.4.	PINS/MENTIONS					---- */
 
 .hasMoreButton-1MELpI {										/* popout				hasmore button						*/
-	color: rgb(var(--mention-color));
+	color: rgb(var(--mentioncolor));
 }
 
 /* ----		11.5.	SEARCHPOPOUT					---- */
